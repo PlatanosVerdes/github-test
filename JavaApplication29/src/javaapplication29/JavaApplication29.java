@@ -15,6 +15,7 @@ public class JavaApplication29 {
      */
     public static void main(String[] args) {
         System.out.println("\033[34mHola Mundo!");
+        System.out.println("adios");
     }
     
 }
